@@ -2,4 +2,4 @@
 
 FROM dpage/pgadmin4:5.5
 
-USER 1000
+USER 5050
